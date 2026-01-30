@@ -5,5 +5,7 @@ __pycache__/
 
 # Python
 *.pyc
-
+config/
+*.save
+__pycache__/
 
